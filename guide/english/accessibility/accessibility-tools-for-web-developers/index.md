@@ -11,7 +11,11 @@ There are many tools and online resources that can help you to ensure that your 
 
    This is a Google Chrome extension that will add a new Accessibility sidebar pane in the Elements tab to the Chrome Developer tools. This new pane will display any properties that are relevant to the accessibility aspect of the element that you are currently inspecting. This extension also adds an accessibility audit that can be used to check whether the current web page violates any accessibility rules. 
 
+- **<a href='https://developer.mozilla.org/en-US/docs/Tools/Accessibility_inspector' target='_blank' rel='nofollow'>
+Accessibility inspector</a>**
 
+   Firefox Developer Tools offers this very nice tools that shows you how a screen-reader reads our content to a user. You have to turn it on in the Settings, press F1, or go to the "three dots" menu and choose Settings and check the Accessibility checkbox under the Default Developer Tools heading.
+   
 - **<a href='https://chrome.google.com/webstore/detail/axe/lhdoppojpmngadmnindnejefpokejbdd?hl=en-US' target='_blank' rel='nofollow'>aXe</a>**
    
    This Google Chrome extension can find accessibility defects on your web page.
@@ -25,6 +29,9 @@ There are many tools and online resources that can help you to ensure that your 
 
    A GitHub app that checks your pull requests for accessibility issues.
 
+- **<a href='https://www.funkify.org/' target='_blank' rel='nofollow'>Funkify</a>**
+
+   Funkify is an extension for Chrome that helps you experience the web and interfaces through the eyes of extreme users with different abilities and disabilities.
 
 ### Color Contrast
 
@@ -47,8 +54,11 @@ There are many tools and online resources that can help you to ensure that your 
 
    This website allows you to edit a color palette and will create a table showing all of the possible color combinations, telling you which ones are accessible and which combinations to avoid using.
 
+- **<a href='https://www.toptal.com/designers/colorfilter' target='_blank' rel='nofollow'>Colorblind Web Page Filter</a>**
+
+   You can enter the URL of your site and it appply a color filter to check how people with color blindness see your site.
 
 ***
 
-#### More Reources
+#### More Resources
 You can find many more tools for accessible web design on <a href='http://www.d.umn.edu/itss/training/online/webdesign/tools.html' target='_blank' rel='nofollow'>this list</a> made by the University of Minnesota Duluth.
