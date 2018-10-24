@@ -99,4 +99,7 @@ which would end up looking like:
 
 <!-- Please add any articles you think might be helpful to read before writing the article -->
 * [HTML lists on w3schools](https://www.w3schools.com/html/html_lists.asp)
+* [MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul)
+* [MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ol)
+* [MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dl) 
 
