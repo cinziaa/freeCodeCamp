@@ -45,7 +45,7 @@ For more information visit the
 
 Oracle VM VirtualBox is a powerful cross-platform virtualization product intended for enterprise or personal use. VirtualBox is freely available as Open Source Software under the GNU General Public Licence (GPL) version 2.
 
-VirtualBox extends the capabilties of your existing computer so that it can run multiple operating systems, you can even run VirtualBox inside a virtual machine, to run another Operating system, all on the same PC, the only limits are disk space and memory.
+VirtualBox extends the capabilities of your existing computer so that it can run multiple operating systems, you can even run VirtualBox inside a virtual machine, to run another Operating system, all on the same PC, the only limits are disk space and memory.
 
 VirtualBox is a simple solution to: 
 - Running multiple operating systems simultaneously.
@@ -76,4 +76,4 @@ Virtual box supports a wide variety of Operating systems:
 #### More Information:
 
 * [virtualbox.org](https://www.virtualbox.org)
-* [How to setup a local linux environement with vagrant](https://medium.com/@JohnFoderaro/how-to-set-up-a-local-linux-environment-with-vagrant-163f0ba4da77)
+* [How to setup a local linux environment with vagrant](https://medium.com/@JohnFoderaro/how-to-set-up-a-local-linux-environment-with-vagrant-163f0ba4da77)
