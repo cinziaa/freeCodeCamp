@@ -26,9 +26,13 @@ An image can also be turned into a link by enclosing the `<img>` tag in an `<a>`
 It is also possible to determine the target of the `<a>` tag. This is done using the `target` attribute. The `target` attribute has the following values available `_blank|_self|_parent|_top|framename`.
 
 `_blank`: Opens the link in a new tab or a new window depending on the user's preferences.
+
 `_self`: Opens the link in same frame (default behaviour).
+
 `_parent`: Opens the link in the parent frame, for example when the user clicks a link in an iframe.
+
 `_top`: Opens the link in the full body of the window.
+
 `framename`: Opens the link in the specified frame.
 
 #### Example:
