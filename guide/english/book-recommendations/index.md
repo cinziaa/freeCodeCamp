@@ -102,6 +102,16 @@ title: Books to Read for Programmers
 - [Wiley](https://www.wiley.com/en-id/Programming+Interviews+Exposed:+Secrets+to+Landing+Your+Next+Job,+2nd+Edition-p-9780470121672)
 - ISBN: 978-0-470-12167-2
 
+## HTML and CSS
+
+*HTML and CSS: Design and Build Websites* by Jon Duckett
+- [Amazon](https://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189/ref=sr_1_1?s=books&ie=UTF8&qid=1540394744&sr=1-1&keywords=HTML+and+CSS%3A+Design+and+Build+Websites)
+- ISBN-13: 978-1118008188
+
+*CSS Secrets: Better Solutions to Everyday Web Design Problems* by Lea Verou
+- [Amazon](https://www.amazon.com/CSS-Secrets-Solutions-Everyday-Problems/dp/1449372635/ref=sr_1_1?s=books&ie=UTF8&qid=1540394925&sr=1-1&keywords=lea+verou)
+- ISBN-13: 978-1449372637
+
 ## Java
 
 *Head First Java* by Kathy Sierra and Bert Bates
